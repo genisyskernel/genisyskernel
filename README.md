@@ -2,7 +2,7 @@
   <p>
     <strong>Hi, I'm Eduardo. 👋⚡</strong>
   </p>
-  <!-- <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
+  <!-- <a href="https://xpayments.org"><img src="./work_badge.svg" /></a> -->
 </div>
 
 ## Work
