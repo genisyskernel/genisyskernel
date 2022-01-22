@@ -1,8 +1,23 @@
 ### Hi there 👋
 
+<div align="center">
+  <p>
+    <strong>Hi, I'm Eduardo. :wave: ⚡</strong>
+  </p>
+  <!-- <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
+</div>
+
+## Work
+
+- Engineer at [@xPaymentsOrg](https://github.com/xpaymentsorg).
+- Working on blockchain node infrastructure.
+
+## Keywords
+
+I'm good at — Go, C, Python, Linux, PostgreSQL, Web.
+
 <!--
 **genisyskernel/genisyskernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 
@@ -14,3 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
