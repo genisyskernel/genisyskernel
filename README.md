@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <strong>Hi there, I'm Eduardo. 👋⚡</strong>
+    <strong>Hi, I'm Eduardo. 👋⚡</strong>
   </p>
   <!-- <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
 </div>
