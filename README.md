@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div align="center">
   <p>
-    <strong>Hi, I'm Eduardo. :wave: ⚡</strong>
+    <strong>### Hi there, I'm Eduardo. 👋⚡</strong>
   </p>
   <!-- <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
 </div>
