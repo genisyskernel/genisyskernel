@@ -7,7 +7,7 @@
 
 ## Work
 
-- Engineer at [@xPaymentsOrg](https://github.com/xpaymentsorg).
+- Blockchain Engineer at [@xPaymentsOrg](https://github.com/xpaymentsorg).
 - Working on blockchain infrastructure.
 
 ## Keywords
