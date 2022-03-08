@@ -5,6 +5,18 @@
   <!-- <a href="https://xpayments.org"><img src="./work_badge.svg" /></a> -->
 </div>
 
+<p align="center">
+  <a href="http://twitter.com/genisyskernel">
+    <img src="https://img.shields.io/twitter/follow/eddiejaoude?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://discord.com/invite/">
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC2cnob7KfWggoDkRWEoG86w?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" />
+  </a>
+</p>
+
 ## Work
 
 - Blockchain Engineer at [@xPaymentsOrg](https://github.com/xpaymentsorg).
