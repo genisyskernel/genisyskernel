@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    <strong>Hi, I'm Eduardo. 👋⚡</strong>
+    <strong><h2>Hi, I'm Eduardo. 👋⚡</h2></strong>
   </p>
   <!-- <a href="https://xpayments.org"><img src="./work_badge.svg" /></a> -->
 </div>
