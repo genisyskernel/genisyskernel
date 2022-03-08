@@ -1,19 +1,25 @@
-<div align="center">
+<div align="left">
   <p>
     <strong>Hi, I'm Eduardo. 👋⚡</strong>
   </p>
   <!-- <a href="https://xpayments.org"><img src="./work_badge.svg" /></a> -->
 </div>
 
-<p align="center">
-  <a href="http://twitter.com/genisyskernel">
-    <img src="https://img.shields.io/twitter/follow/genisyskernel?label=Twitter&logo=twitter&style=for-the-badge&color=red" />
+<p align="left">
+  <a href="http://github.com/genisyskernel">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/genisyskernel?color=lightgray&label=GitHub&logo=GitHub&style=for-the-badge">
   </a>
-  <!--<a href="https://discord.com/invite/">
-    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge&color=red" />
-  </a> -->
+  <br/>
+  <a href="http://twitter.com/genisyskernel">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/genisyskernel?color=blue&label=Twitter&logo=Twitter&style=for-the-badge">
+  </a>  
+  <br/>
   <a href="https://www.youtube.com/channel/UC2cnob7KfWggoDkRWEoG86w?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC2cnob7KfWggoDkRWEoG86w?style=for-the-badge&logo=youtube&label=Youtube&color=red" />
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2cnob7KfWggoDkRWEoG86w?color=red&label=YouTube&logo=YouTube&logoColor=red&style=for-the-badge">
+  </a>
+  <br/>
+  <a href="https://twitch.tv/genisyskernel">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/genisyskernel?color=blueviolet&label=Twitch&logo=Twitch&style=for-the-badge">
   </a>
 </p>
 
