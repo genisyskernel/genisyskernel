@@ -9,10 +9,10 @@
   <a href="http://github.com/genisyskernel">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/genisyskernel?color=lightgray&label=GitHub&logo=GitHub&style=for-the-badge">
   </a>
-  <!-- <br/>
+  <br/>
   <a href="http://twitter.com/genisyskernel">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/genisyskernel?color=blue&label=Twitter&logo=Twitter&style=for-the-badge">
-  </a> -->  
+  </a> 
   <br/>
   <a href="https://www.youtube.com/channel/UC2cnob7KfWggoDkRWEoG86w?sub_confirmation=1">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2cnob7KfWggoDkRWEoG86w?color=red&label=YouTube&logo=YouTube&logoColor=red&style=for-the-badge">
