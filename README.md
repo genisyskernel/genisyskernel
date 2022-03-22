@@ -28,7 +28,7 @@
 - Blockchain Engineer at [@xPaymentsOrg](https://github.com/xpaymentsorg).
 - Working on blockchain infrastructure.
 #
-- Web, iOS and Android Developer at [@SkyLyToday](https://github.com/skylytoday).
+- Web, iOS and Android Developer at [@SkyLyDay](https://github.com/skylyday).
 - Working on project.
 
 ## Keywords
