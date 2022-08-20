@@ -9,20 +9,18 @@
   <a href="http://github.com/genisyskernel">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/genisyskernel?color=lightgray&label=GitHub&logo=GitHub&style=for-the-badge">
   </a>
-  <br/>
   <a href="http://twitter.com/genisyskernel">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/genisyskernel?color=blue&label=Twitter&logo=Twitter&style=for-the-badge">
-  </a> 
-  <br/>
+  </a>
   <a href="https://www.youtube.com/channel/UC2cnob7KfWggoDkRWEoG86w?sub_confirmation=1">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2cnob7KfWggoDkRWEoG86w?color=red&label=YouTube&logo=YouTube&logoColor=red&style=for-the-badge">
   </a>
-  <br/>
   <a href="https://twitch.tv/genisyskernel">
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/genisyskernel?color=blueviolet&label=Twitch&logo=Twitch&style=for-the-badge">
   </a>
 </p>
 
+<!--
 ## Works
 
 - Blockchain Engineer at [@xPaymentsOrg](https://github.com/xpaymentsorg).
@@ -30,11 +28,10 @@
 #
 - Web, iOS and Android Developer at [@SkyLyDay](https://github.com/skylyday).
 - Working on project.
+-->
 
 ## Keywords
-
 I'm good at — Go, C, Python, Linux, PostgreSQL, Web.
-
 ##
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=genisyskernel&show_icons=true)
