@@ -31,7 +31,7 @@
 -->
 
 ## Keywords
-I'm good at — Go, C++, Python, Linux, PostgreSQL, Web.
+I'm good at — C++, Python, Linux.
 ##
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=genisyskernel&show_icons=true)
