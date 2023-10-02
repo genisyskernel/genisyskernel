@@ -32,7 +32,7 @@
 -->
 
 ## Keywords
-I'm good at — C++, Python, Linux.
+I'm good at — C++, Python, Java, Kotlin and Linux.
 ##
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=genisyskernel&show_icons=true)
